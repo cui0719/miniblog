@@ -1,0 +1,14 @@
+/.idea/
+/assembly/wire_gen_withtools.go
+/internal/server/http_withtools.go
+/templates/
+/vendor/
+
+# windows thumbnail cache
+Thumbs.db
+
+# Mac DS_Store Files
+.DS_Store
+./go.mod
+./go.mod/go.sum
+/netrc
